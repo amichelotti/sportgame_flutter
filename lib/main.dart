@@ -4,7 +4,7 @@ import 'package:flutter/material.dart';
 import 'Home.dart';
 void main() {
  runApp( MaterialApp(
-    title: 'Sistemi di numereazione',
+    title: 'Sport Game',
     home: Home(),
   ));
 }
